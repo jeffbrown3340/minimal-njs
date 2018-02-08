@@ -1,2 +1,2 @@
 # minimal-njs
-minimal Node.js 
+minimal Express server -- returns process.env as string

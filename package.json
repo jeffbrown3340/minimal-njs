@@ -1,0 +1,22 @@
+{
+  "name": "minimal-njs",
+  "version": "1.0.0",
+  "description": "minimal Node.js applets for illustration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffbrown3340/minimal-njs.git"
+  },
+  "author": "JeffB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffbrown3340/minimal-njs/issues"
+  },
+  "homepage": "https://github.com/jeffbrown3340/minimal-njs#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
